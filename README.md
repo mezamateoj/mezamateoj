@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😁 About Me:
 Hi 👋 Im mateo a recently bussiness degree graduate with a passion for web development and finance.<br>Im currently trying to turn my passion into a job.<br>Always open to collaborate and create new and fun projects<br>
 
 ## 🌐 Socials:
