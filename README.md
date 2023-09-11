@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋 Im mateo a recently bussiness degree graduate with<br>a passion for web development and finance.<br>Im currently trying to turn my passion into a job.<br>Always open to collaborate and create new and fun projects<br>
-
+Hi 👋 Im mateo a recently bussiness degree graduate with a passion for web development and finance.<br>Im currently trying to turn my passion into a job.<br>Always open to collaborate and create new and fun projects<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mezamateo) 
