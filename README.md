@@ -1,4 +1,4 @@
-# I like to code:
+# I like to code
 Bussiness degree graduate with a passion for web development and finance.<br>Currently working as a full-stack developer.<br>
 
 ## GitHub Stats:
